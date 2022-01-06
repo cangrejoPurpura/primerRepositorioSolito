@@ -1,0 +1,18 @@
+body{
+     color: rgb(71, 21, 48);
+     font-family: "Arial";
+     font-size: 20px;
+     border: 1px solid black;
+     margin: 0;
+     padding: 0;
+}
+
+h1{
+     font-size: 50px;
+     text-align: center;
+     background-color: cornflowerblue;
+}
+
+p{
+     text-align: center;
+}
